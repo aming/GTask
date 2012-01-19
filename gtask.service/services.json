@@ -1,0 +1,15 @@
+{
+    "id": "info.xming.gtask.service",
+    "description": "List Task Service",
+    "activityTimeout" : 30,
+    "services": [{
+        "name": "info.xming.gtask.service",
+        "description": "List Task",
+        "commands": [{
+            "name" : "listtask",
+            "assistant" : "ListtaskCommandAssistant",
+            "subscribe" : true,
+            "public" : true
+        }]
+    }]
+}

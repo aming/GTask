@@ -1,0 +1,21 @@
+[
+    {"source": "app/assistants/gtask-assistant.js"},
+    {"source": "app/assistants/utils/restclient.js"},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "tasklist",
+        "source": "app/assistants/tasklist-assistant.js"
+    },
+    {
+        "scenes": "addtask",
+        "source": "app/assistants/addtask-assistant.js"
+    },
+    {
+        "scenes": "oauth",
+        "source": "app/assistants/oauth-assistant.js"
+    },
+    {
+        "scenes": "taskdetails",
+        "source": "app/assistants/taskdetails-assistant.js"
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "info.xming.gtask",
+  "package_format_version": 2,
+  "loc_name": "Xming Service GTask",
+  "version": "1.1.0",
+  "icon": "icon.png",
+  "miniicon": "icon.png",
+  "vendor": "AMing",
+  "vendorurl": "xming.info",
+  "app": "info.xming.gtask",
+  "services": ["info.xming.gtask.service"]
+}

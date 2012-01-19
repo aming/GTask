@@ -1,0 +1,16 @@
+{
+	"id": "info.xming.gtask",
+	"version": "1.1.0",
+	"vendor": "AMing",
+	"type": "web",
+	"main": "index.html",
+	"title": "GTask",
+	"icon": "icon.png",
+    "universalSearch": {
+        "action": {
+            "displayName": "New GTask",
+            "url":"info.xming.gtask.addTask",
+            "launchParam":"newTaskString"
+        }
+    }
+}
